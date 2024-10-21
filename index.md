@@ -10,6 +10,12 @@ Hello, My name is Gwyndolin Powell and I am a Cyber Security student working on 
 * * *
 >
 
+# Projects
+
+[Link to another page](./another-page.html).
+
+>
+
 ## Contact Info
 
 * Name: Gwyndolin Powell
@@ -23,8 +29,6 @@ Hello, My name is Gwyndolin Powell and I am a Cyber Security student working on 
 
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
