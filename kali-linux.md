@@ -4,4 +4,6 @@ I decided to use VirtualBox, a type 2 hypervisor, for my VM set ups. If I had a 
 <p>
 After setting up VBox and installing Kali Linux I went into the VMs settings and alloted 4GB of ram and 2 CPU cores and left everything else on the default settings.
 </p>
-![4gb ram](/docs/assets/images/4gbram.png)
+![4gb ram](/assets/images/4gbram.png)
+
+![2CPU Cores](/assets/images/2cpu%20cores.png)
