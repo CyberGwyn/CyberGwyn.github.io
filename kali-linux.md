@@ -7,3 +7,9 @@ After setting up VBox and installing Kali Linux I went into the VMs settings and
 ![4gb ram](/assets/images/4gbram.png)
 
 ![2CPU Cores](/assets/images/2cpu%20cores.png)
+
+<p>
+And now Kali Linux is fully set up on VirtualBox!
+</p>
+
+![Kali Linux Desktop](/assets/images/kali-linux%20setup.png)
