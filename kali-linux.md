@@ -13,3 +13,11 @@ And now Kali Linux is fully set up on VirtualBox!
 </p>
 
 ![Kali Linux Desktop](/assets/images/kali-linux%20setup.png)
+
+<p>
+I was having issues with Nmap giving false positives when doing a mass ping of my home network claiming that it discovered 256 active hosts when this definitely wasn't the case. I switched the network adapter from NAT to bridged and this solved the false positives issue!
+</p>
+
+![Vbox Bridged Adapter](/assets/images/bridgedadapter.png)
+
+![Nmap Results](/assets/images/NMAP%20results.png)
