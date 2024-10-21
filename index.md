@@ -13,6 +13,7 @@ Hello, My name is Gwyndolin Powell and I am a Cyber Security student working on 
 
 # Projects
 
+* [Virtual Machine Projects](./Virtual-Machine-Projects.html)
 * [Network Security Audit](./Network-Security-Audit.html)
 
 >
