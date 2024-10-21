@@ -8,11 +8,17 @@ I am a Cyber Security student working on building up their portfolio to prepare 
 
 * * *
 
-# Contact Info
+## Contact Info
 
-Name: Gwyndolin Powell
-Email: gwyndolinpowell38@yahoo.com
-Pronouns: They/Them
+> Name: Gwyndolin Powell
+> Email: gwyndolinpowell38@yahoo.com
+> Pronouns: They/Them
+
+
+
+
+
+
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
