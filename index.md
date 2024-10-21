@@ -2,6 +2,16 @@
 layout: default
 ---
 
+# About Me
+
+I am a Cyber Security student working on building up their portfolio to prepare for the world of IT and Cyber Security. I formerly worked as an automotive technician for a few years and have found that I've been able to transfer a lot of the skills that I have learned from my experience as a technician into the world of IT. 
+
+# Contact Info
+
+Name: Gwyndolin Powell
+Email: gwyndolinpowell38@yahoo.com
+Pronouns: They/Them
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
